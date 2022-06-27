@@ -39,7 +39,8 @@ h1{
     grid-area: navbar;
     width: 100%;
     height: 60px;
-    background-color: #fb5ab3cb;
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #c52b72 100%);
     display: flex;
     justify-content: space-evenly
 }
@@ -55,7 +56,7 @@ h1{
 }
 .navbar ul li a {
     text-decoration: none;
-    color: blueviolet;
+    color: rgb(195, 146, 238);
     font-size: 13px;  
       
 }
@@ -146,7 +147,8 @@ h1{
 .pie {
     width: 100%;
     height: 60px;
-    background-color: #fb5ab3cb ;
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #c52b72 100%);
     display: flex;
     justify-content: center
 }
@@ -154,7 +156,7 @@ h1{
     font-size: 12px;
     padding: 15px;
     margin: 3px;
-    color: blueviolet;
+    color: rgb(195, 146, 238);
     font-family:'Black And White Picture', sans-serif;
     font-family: 'Metal', cursive;
     font-family: 'Patrick Hand', cursive;
@@ -346,7 +348,8 @@ form input {
     grid-area:caja1;
     width: 100%;
     height: 60px;
-    background-color: #fb5ab3cb;
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #c52b72 100%);
     display: flex;
     justify-content: space-evenly
 }
@@ -362,7 +365,7 @@ form input {
 }
 .caja1 ul li a {
     text-decoration: none;
-    color: blueviolet;
+    color: rgb(195, 146, 238);
     font-size: 13px;  
       
 }
@@ -450,7 +453,8 @@ form input {
  .caja5 {
     grid-area: caja5;
     width: 100%;
-    background-color: #fb5ab3cb ; 
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #c52b72 100%);
     display: flex;
     flex-direction: row;
                    
@@ -459,7 +463,7 @@ form input {
     font-size: 12px;
     padding: 8px;
     margin: 2px;
-    color: blueviolet;
+    color: rgb(195, 146, 238);
     font-family:'Black And White Picture', sans-serif;
     font-family: 'Metal', cursive;
     font-family: 'Patrick Hand', cursive;
@@ -486,7 +490,8 @@ form input {
     grid-area:caja1;
     width: 100%;
     height: 60px;
-    background-color: #fb5ab3cb;
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #c52b72 100%);
     display: flex;
     justify-content: space-evenly
     
@@ -503,7 +508,7 @@ form input {
 }
 .caja1 ul li a {
     text-decoration: none;
-    color: blueviolet;
+    color: rgb(195, 146, 238);
     font-size: 24px;  
       
 }
@@ -584,7 +589,8 @@ h3.form__titulo {
  .caja5 {
     grid-area: caja5;
     width: 100%;
-    background-color: #fb5ab3cb ; 
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #c52b72 100%);
     display: flex;
     text-align: center;
    
