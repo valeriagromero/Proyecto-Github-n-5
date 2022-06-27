@@ -193,6 +193,7 @@ h1{
 }
 .pagosImg {
     padding: 30px;
+    transition: 2s;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around   
@@ -444,6 +445,7 @@ form input {
         
  }
  .caja4pagosImg {
+    transition: 2s;
     display: flex;
     flex-wrap: wrap;
  
@@ -581,6 +583,7 @@ h3.form__titulo {
  }
  .caja4pagosImg {
     margin: 40px;
+    transition: 2s;
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
