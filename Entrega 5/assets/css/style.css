@@ -616,7 +616,15 @@ h3.form__titulo {
     
     display: flex;
     
-  
 }  
  
+}
+.texto{
+    font-family:'Black And White Picture', sans-serif;
+    font-family: 'Metal', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Texturina', serif;
+    font-family: 'Trochut', cursive; ;
+    color:#FF0585 ;
+
 }
