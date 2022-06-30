@@ -674,3 +674,9 @@ h3.form__titulo {
     color:#FF0585 ;
 
 }
+.mapa {
+    margin: 15px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
